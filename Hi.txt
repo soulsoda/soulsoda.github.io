@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>This is a test site for myself<h1>
-<p>hosted by Github.<p>
-</body>
-</html>
